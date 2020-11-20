@@ -1,0 +1,11 @@
+name: rehydratoR
+channels:
+  - defaults
+dependencies:
+  - jupyter
+  - r-base
+  - r-essentials
+  - r-dplyr
+  - r-jsonlite
+  - r-tibble
+  - r-rtweet

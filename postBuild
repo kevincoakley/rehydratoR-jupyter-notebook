@@ -1,0 +1,5 @@
+#!/bin/bash
+
+set -ex
+
+Rscript install.R
